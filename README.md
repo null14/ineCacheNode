@@ -1,2 +1,2 @@
 # ineCacheNode
-geometory cache node.
+geometry cache node.
